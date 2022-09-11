@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Belgacem Dahmen</h1>
-<h3 align="center">A passionate ISTQB certified Tester from Tunisia</h3>
+<h3 align="center">A passionate  Tester from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belgacem-dahmen&label=Profile%20views&color=0e75b6&style=flat" alt="belgacem-dahmen" /> </p>
 
 - 🔭 I’m currently working on **Marketing Prédictif**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **javascript && Java **
 
-- 💬 Ask me about **Cypress**
+- 💬 Ask me about **Selenium**
 
 - 📫 How to reach me **belgacem.dahmen@gmail.com**
 
